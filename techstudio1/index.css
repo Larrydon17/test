@@ -1,0 +1,79 @@
+
+.tech{
+    color:yellowgreen;
+}
+
+#head{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+   
+
+.bet{
+    background-color: blue;
+    color: violet;
+
+}
+div,p{
+   color: blue; 
+}
+.bt{
+    background-color: aqua;
+    color;
+}
+
+.fo{
+    background-color: cadetblue;
+    margin-top: 10px;
+} 
+
+form{
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: peru;
+}
+
+.tik{
+    background-color: blue;
+    color:#fff;
+    border: solid;
+    border-color: black;
+}
+
+#tok{
+    border-color: brown;
+    
+    border-style: dashed;
+}
+#tok2{
+    border-color: coral;
+    border-style: dotted;
+}
+.home{
+    background-color: black;
+    color: sandybrown;
+    width: 70px;
+  display: inline;
+}
+
+.flx{
+    background-color: seagreen;
+    height: 45px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.den {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+li a {
+  display: block;
+  width: 60px;
+
+}
+
+
+
+

@@ -1,0 +1,39 @@
+.for{
+    width: 55px;
+    height: 60px;
+    margin-inline: 130px;
+    display: flex;
+}
+.fore{
+    margin-inline: 190px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 80px;
+    position: relative;
+    bottom: 70px;
+    line-height: 10px;
+}
+.ref{
+    position: relative;
+    bottom: 100px;
+    margin-left: 700pt;
+    display: flex;
+    justify-content: space-around;
+
+}
+.he{
+    margin-inline: 150px;
+    color: rgb(8, 89, 196)
+
+}
+#h{
+    color: gray;
+}
+.r{
+    text-decoration: none;
+    
+}
+.po{
+    position: relative;
+    bottom: 100px;
+    margin-left: 500pt;
+}
